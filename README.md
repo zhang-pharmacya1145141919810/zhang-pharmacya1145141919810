@@ -5,8 +5,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... pr on this ... pull request ... you know
 - 💊厂在苏联太空站上。不信算了。
-                       R
-                         X
+- 厂子老板故意private的 不信...把各位倒着放...（拉倒那种...）（再问...
+
+-                                   R
+-                                       X
+  
   
 <!---
 zhang-pharmacya1145141919810/zhang-pharmacya1145141919810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
