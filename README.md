@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @zhang-pharmacya1145141919810
+- （张💊1145141919810-厂子）
+- 👀 I’m interested in ... collecting ... Everything
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... pr on this ... pull request ... you know
+
+                       R
+                         X
+  
+<!---
+zhang-pharmacya1145141919810/zhang-pharmacya1145141919810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
